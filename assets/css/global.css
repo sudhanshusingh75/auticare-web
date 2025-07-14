@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #2c5282;
+  --primary-color: #006380;
   --secondary-color: #edf2f7;
   --text-color: #1a202c;
   --font-family: 'Inter', sans-serif;
@@ -132,7 +132,7 @@ main {
 }
 
 .contact-form button:hover {
-  background-color: #2a4365;
+  background-color: #002733;
 }
 
 footer {
@@ -144,7 +144,7 @@ footer {
 }
 
 footer a {
-  color: #a0aec0;
+  color: #29a6cc;
   text-decoration: none;
 }
 
