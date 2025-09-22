@@ -53,6 +53,7 @@ nav ul {
   list-style: none;
   display: flex;
   gap: 1.5rem;
+  text-align: center;
 }
 
 nav a {
@@ -206,3 +207,4 @@ footer {
   position: relative;
   bottom: 0;
 }
+
